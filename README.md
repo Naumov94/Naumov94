@@ -9,5 +9,7 @@ QA Engineer 👨‍💻 | Actively Developing Professional in Manual Testing
 Actively developing QA Engineer with a focus on manual testing. Committed to ensuring the quality and reliability of software through rigorous testing methodologies.
 
 🔍 Proficient in exploratory testing and test case design.
+
 🤝 Collaborative team player with strong communication skills.
+
 📈 Continuous learner, dedicated to staying updated with industry best practices.
