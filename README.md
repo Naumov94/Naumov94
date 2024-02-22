@@ -1,4 +1,4 @@
-# Vadim Naumov
+# Hello there! my name is Vadim Naumov
 QA Engineer 👨‍💻 | Actively Developing Professional in Manual Testing
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue)](https://www.linkedin.com/in/Naumov94)
