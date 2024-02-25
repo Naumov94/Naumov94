@@ -10,10 +10,5 @@ QA Engineer 👨‍💻 | Actively Developing Professional in Manual Testing
 
 Primary domain - testing web applications (front + back). Currently, I am also studying test automation.🦾🤖
 
-📧How to reach me: 
 
-🔍 Proficient in exploratory testing and test case design.
-
-🤝 Collaborative team player with strong communication skills.
-
-📈 Continuous learner, dedicated to staying updated with industry best practices.
+📧How to reach me: [![Instagram](https://img.shields.io/badge/Instagram-Naumov94_-purple)](https://www.instagram.com/Naumov94_/)
