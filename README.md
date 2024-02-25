@@ -13,3 +13,5 @@ Primary domain - testing web applications (front + back). Currently, I am also s
 
 Social networks: <a href="https://www.instagram.com/naumov94_" target="_blank"><img src="images/Instagram_Glyph_Gradient.png" alt="Instagram" width="40" height="40"><a href="https://www.linkedin.com/in/Naumov94" target="_blank"><img src="images/LI-In-Bug.png" alt="LinkedIn" width="40" height="40">
 </a>
+
+Test documentation: ![Jira](https://raw.githubusercontent.com/simple-icons/simple-icons/main/icons/jira.svg)
