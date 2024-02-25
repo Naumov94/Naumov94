@@ -9,5 +9,5 @@ Primary domain - testing web applications (front + back). Currently, I am also s
 
 
 📧How to reach me: <a href="https://github.com/naumov94" target="_blank"><img src="images/github-mark-white.png" alt="GitHub" width="45" height="45"></a> <a href="https://www.instagram.com/naumov94_" target="_blank">
-  <img src="images/Instagram_Glyph_Gradient.png" alt="Instagram" width="45" height="45">[<img src="https://www.gstatic.com/images/branding/product/2x/gmail_48dp.png" alt="Gmail" width="50" height="50">](mailto:chester.kms@gmail.com)<a href="https://t.me/Naumov94USA" target="_blank"><img src="images/Logo.png" alt="Telegram" width="45" height="45">
+  <img src="images/Instagram_Glyph_Gradient.png" alt="Instagram" width="45" height="45">[<img src="https://www.gstatic.com/images/branding/product/2x/gmail_48dp.png" alt="Gmail" width="55" height="55">](mailto:chester.kms@gmail.com)<a href="https://t.me/Naumov94USA" target="_blank"><img src="images/Logo.png" alt="Telegram" width="45" height="45">
 </a>
