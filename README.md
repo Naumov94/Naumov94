@@ -2,7 +2,7 @@
 QA Engineer 👨‍💻 | Actively Developing Professional in Manual Testing
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Naumov94-blue)](https://www.linkedin.com/in/Naumov94)
-<a href="https://github.com/naumov94" target="_blank"><img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="40" height="40"></a>
+<a href="https://github.com/naumov94" target="_blank"><img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="50" height="50"></a>
 
 
 
