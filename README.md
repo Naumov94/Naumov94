@@ -1,4 +1,4 @@
-# Hello there! My name is Vadim Naumov
+# Hello there! My name is Vadim
 QA Engineer 👨‍💻
 
 ---
