@@ -8,4 +8,4 @@ QA Engineer 👨‍💻
 Primary domain - testing web applications (front + back). Currently, I am also studying test automation.🦾🤖
 
 
-📧How to reach me: <a href="mailto:chester.kms@gmail.com" target="_blank"><img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="50" height="50"></a>   
+📧How to reach me: <a href="mailto:chester.kms@gmail.com" target="_blank"><img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="50" height="50"></a>   <a href="https://github.com/naumov94" target="_blank"><img src="C:/Users/chest/Documents/GitHub/Naumov94/github-mark-white" alt="GitHub" width="50" height="50"></a>
