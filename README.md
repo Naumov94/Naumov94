@@ -7,6 +7,7 @@ QA Engineer 👨‍💻 | Actively Developing Professional in Manual Testing
 ---
 
 Actively developing QA Engineer with a focus on manual testing. Committed to ensuring the quality and reliability of software through rigorous testing methodologies.
+Primary domain - testing web applications (front + back). Currently, I am also studying test automation.
 
 🔍 Proficient in exploratory testing and test case design.
 
