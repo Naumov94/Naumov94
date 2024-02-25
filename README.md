@@ -1,6 +1,5 @@
 # Hello there! My name is Vadim Naumov
-QA Engineer 👨‍💻 | Actively Developing Professional in Manual Testing
-
+QA Engineer 👨‍💻
 
 ---
 
