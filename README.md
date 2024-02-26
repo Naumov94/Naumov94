@@ -20,4 +20,4 @@ Web application testing: <img src="images/icons8-chrome-48.png" alt="Chrome DevT
 <img src="images/icons8-postman-is-the-only-complete-api-development-environment-48.png" alt="Postman Logo" width="40" height="40">
 <img src="images/soap.png" alt="SoapUI Logo" width="40" height="40">
 
-
+Mobile application testing: 
