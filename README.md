@@ -28,4 +28,4 @@ Mobile application testing: <img src="images/icons8-android-studio-40.png" alt="
 Data management: <img src="images/icons8-mysql-40.png" alt="MySQL Logo" width="40" height="40"></a>
 
 Working with Code: <img src="images/git-40.png" alt="Git Logo" width="40" height="40"></a>
-<img src="images/icons8-bash-40.png" alt="Bash Logo" width="40" height="40"></a>
+<img src="images/icons8-bash-40.png" alt="Bash Logo" width="43" height="43"></a>
