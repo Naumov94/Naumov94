@@ -16,7 +16,7 @@ Social networks: <a href="https://www.instagram.com/naumov94_" target="_blank"><
 
 Test documentation: <img src="images/logo-gradient-blue-jira.png" alt="Jira" width="60" height="40"><img src="images/Azure-Devops-Logo-Transparent.png" alt="Azure DevOps" width="40" height="40">
 
-Web application testing: <img src="images/icons8-chrome-48.png" alt="Chrome DevTools" width="40" height="40">
+Web application testing: <img src="images/icons8-chrome-48.png" alt="Chrome DevTools" width="44" height="44">
 <img src="images/icons8-postman-is-the-only-complete-api-development-environment-48.png" alt="Postman Logo" width="40" height="40">
 
 
