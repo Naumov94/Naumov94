@@ -16,9 +16,11 @@ Primary domain - testing web applications (front + back). Currently, I am also s
 Social networks: <a href="https://www.instagram.com/naumov94_" target="_blank"><img src="images/Instagram_Glyph_Gradient.png" alt="Instagram" width="40" height="40"></a>
 <a href="https://www.linkedin.com/in/Naumov94" target="_blank"><img src="images/LI-In-Bug.png" alt="LinkedIn" width="40" height="40"></a>
 
+---
+
 Test documentation: <img src="images/logo-gradient-blue-jira.png" alt="Jira" width="60" height="40"></a>
 <img src="images/Azure-Devops-Logo-Transparent.png" alt="Azure DevOps" width="40" height="40">
-
+---
 Web application testing: <img src="images/icons8-chrome-48.png" alt="Chrome DevTools" width="42" height="42">
 <img src="images/icons8-postman-is-the-only-complete-api-development-environment-48.png" alt="Postman Logo" width="40" height="40">
 <img src="images/soap.png" alt="SoapUI Logo" width="40" height="40">
