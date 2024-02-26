@@ -29,3 +29,4 @@ Data management: <img src="images/icons8-mysql-40.png" alt="MySQL Logo" width="4
 
 Working with Code: <img src="images/git-40.png" alt="Git Logo" width="40" height="40"></a>
 <img src="images/icons8-bash-40.png" alt="Bash Logo" width="43" height="43"></a>
+<img src="images/Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode Logo" width="40" height="40">
