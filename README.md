@@ -18,5 +18,6 @@ Test documentation: <img src="images/logo-gradient-blue-jira.png" alt="Jira" wid
 
 Web application testing: <img src="images/icons8-chrome-48.png" alt="Chrome DevTools" width="42" height="42">
 <img src="images/icons8-postman-is-the-only-complete-api-development-environment-48.png" alt="Postman Logo" width="40" height="40">
+<img src="images/soap.png" alt="SoapUI Logo" width="40" height="40">
 
 
