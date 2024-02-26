@@ -25,6 +25,6 @@ Mobile application testing: <img src="images/icons8-android-studio-40.png" alt="
 <img src="images/charles.png" alt="Charles Proxy Logo" width="40" height="40"></a>
 <img src="images/Fiddler-Logo-1-184x184.png" alt="Charles Proxy Logo" width="40" height="40"></a>
 
-Data management: <img src="images/icons8-mysql-40.png" alt="MySQL Logo" width="40" height="40">
+Data management: <img src="images/icons8-mysql-40.png" alt="MySQL Logo" width="40" height="40"></a>
 
-Working with Code: 
+Working with Code: <img src="images/icons8-git-40.png" alt="Git Logo" width="40" height="40"></a>
