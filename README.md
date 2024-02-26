@@ -24,3 +24,5 @@ Web application testing: <img src="images/icons8-chrome-48.png" alt="Chrome DevT
 Mobile application testing: <img src="images/icons8-android-studio-40.png" alt="Android Studio Logo" width="40" height="40">
 <img src="images/charles.png" alt="Charles Proxy Logo" width="40" height="40"></a>
 <img src="images/Fiddler-Logo-1-184x184.png" alt="Charles Proxy Logo" width="40" height="40"></a>
+
+Data management: 
