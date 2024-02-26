@@ -1,5 +1,5 @@
 # Hello there! My name is Vadim
-QA Engineer 👨‍💻
+QA Engineer 👨‍💻 Open for Hire! Actively seeking new job opportunities, preferably in or near Salt Lake City, or remote options.
 
 ---
 
